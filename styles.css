@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+header {
+    text-align: center;
+    padding: 20px 0;
+}
+.project {
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px solid #ddd;
+}
